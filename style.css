@@ -1,0 +1,50 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: #E8D6D0;
+}
+
+div{
+    display: inline-block;
+    border-style: solid;
+    background-color: #D56461;
+    position: relative;
+    top: 200px;
+    width: 700px;
+    height: 550px;
+    border-radius: 5px;
+    border-style: double black;
+    color: #493A3B;
+    font-size: 44px;
+    font-weight: bold;
+    padding-top: 130px;
+    
+    font-family:"system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";;
+}
+
+h1{
+    font-weight: 300px;
+    font-size: 23px;
+    
+    
+    color: #24292f;
+    font-family:"system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";;
+}
+span{
+    color: yellow;}
+
+    img{ position: absolute;
+        top: -85px;
+        right: 250px;
+        border-radius: 50%;
+        border-style:solid;
+        
+    
+}
